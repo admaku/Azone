@@ -1,1 +1,1 @@
-# Azone
+This is the main repo for the Azone project.
